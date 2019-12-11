@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Quotes day",
+  "description": "Quotes for you Everyday!.Get inspired from best quotes of the world",
+  "version": "1",
+  "author": "Easyvipin",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "QUOTES AT RESCUE",
+    "default_popup": "quotes.html"
+  },
+  "permissions": ["activeTab"],
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
