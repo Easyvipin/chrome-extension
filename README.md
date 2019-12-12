@@ -74,5 +74,7 @@ window.onload = function() {
 
 ```
 ### ALL DONE
-# PUBLISH ON WEB STORE
+### SCREEN
+![SCREEN](https://github.com/Easyvipin/chrome-extension/blob/master/Quotes%20day/screen.PNG)
+### zip the folder & PUBLISH IT ON WEB STORE
 [WEB STORE](https://chrome.google.com/webstore/developer/dashboard)
